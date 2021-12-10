@@ -1,11 +1,15 @@
+숙제20211207/ReflectionExam.java
+ 숙제20211207.ReflectionExam
 추석숙제/디렉터리트리/DirTree.java
  추석숙제.디렉터리트리.DirTree
 추석숙제/히스토그램/Histogram.java
  추석숙제.히스토그램.Histogram
+숙제20211207/Person.java
+ 숙제20211207.Person
 Rational/Rational.java
  Rational.Rational
-Rational/Test.java
- Rational.Test
+추석숙제/텍스트데이터생성과통계/TextDataStatistics.java
+ 추석숙제.텍스트데이터생성과통계.TextDataStatistics
 추석숙제/텍스트데이터생성과통계/TextDataCreation.java
  추석숙제.텍스트데이터생성과통계.TextDataCreation
 추석숙제/간단한파일서버/SimpleFileServer.java
@@ -16,5 +20,5 @@ Rational/Test.java
  자바의신1권마지막실습.CalculateSalary
 자바의신1권마지막실습/SalaryIncreaseRateType.java
  자바의신1권마지막실습.SalaryIncreaseRateType
-추석숙제/텍스트데이터생성과통계/TextDataStatistics.java
- 추석숙제.텍스트데이터생성과통계.TextDataStatistics
+Rational/Test.java
+ Rational.Test
