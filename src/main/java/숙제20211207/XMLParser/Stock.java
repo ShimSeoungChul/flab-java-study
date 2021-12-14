@@ -1,4 +1,4 @@
-package 숙제20211207;
+package 숙제20211207.XMLParser;
 
 import lombok.Getter;
 import lombok.Setter;

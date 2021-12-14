@@ -1,4 +1,4 @@
-package 숙제20211207;
+package 숙제20211207.XMLParser;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 import org.xml.sax.Attributes;
 import org.xml.sax.helpers.DefaultHandler;
 
-import lombok.Builder;
+import 숙제20211207.XMLParser.Stock;
 
 public class StocksSaxHandler extends DefaultHandler {
 	//파싱한 Stock객체를 넣을 리스트
